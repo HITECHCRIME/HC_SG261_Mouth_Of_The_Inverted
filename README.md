@@ -6,7 +6,7 @@
 
 ## Project Data
 
-Description.
+
 
 > **Title:**  / **Featuring:** 
 
@@ -33,3 +33,5 @@ Description.
 ## Short Cinematic Film
 
 ## Miscellaneous Notes
+
+Ghostmane style rap.
